@@ -69,7 +69,7 @@ Hands-on experience through industry simulations and internship projects in AI, 
 
 📧 Email:vishalvaibhav004@gmail.com
 
-💼 LinkedIn: linkedin.com/in/vaibhav-vishal-7a0520290
+💼 LinkedIn: www.linkedin.com/in/vaibhav-vishal-cse
 
 ---
 
