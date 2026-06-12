@@ -1,17 +1,17 @@
-# Hi there 👋, I'm Vaibhav Vishal
+# Hi there , I'm Vaibhav Vishal
 
-## 🚀 Aspiring AI & Full-Stack Developer
+## Aspiring AI & Full-Stack Developer
 
 I enjoy building practical software, exploring AI technologies, and solving real-world problems through code.
 
-### 🌱 Currently Learning
+### Currently Learning
 
 * Artificial Intelligence & Generative AI
 * Full-Stack Web Development
 * Data Analytics & Visualization
 * System Design & Software Engineering
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -40,39 +40,39 @@ I enjoy building practical software, exploring AI technologies, and solving real
 * Postman
 * VS Code
 
-### 🔥 Featured Projects
+### Featured Projects
 
-#### 🤖 VAIB
+#### VAIB
 
 An AI-powered assistant project focused on productivity, automation, and intelligent interactions.
 
-#### 🏛 Heritage AI
+#### Heritage AI
 
 A web platform designed to explore and showcase cultural heritage sites using modern web technologies.
 
-#### 📊 Data Analytics Projects
+#### Data Analytics Projects
 
 Projects involving data cleaning, business insights, KPI tracking, and visualization.
 
-#### 🎓 Professional Simulations & Internships
+#### Professional Simulations & Internships
 
 Hands-on experience through industry simulations and internship projects in AI, analytics, and software development.
 
-### 📈 Current Goals
+### Current Goals
 
 * Build production-ready AI applications
 * Strengthen full-stack development skills
 * Contribute to open-source projects
 * Secure impactful software and AI opportunities
 
-### 📫 Connect With Me
+### Connect With Me
 
-📧 Email:vishalvaibhav004@gmail.com
+Email:vishalvaibhav004@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/vaibhav-vishal-cse
+LinkedIn: www.linkedin.com/in/vaibhav-vishal-cse
 
 ---
 
-⭐ Always learning, building, and improving.
+Always learning, building, and improving.
 
 
